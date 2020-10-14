@@ -2,19 +2,19 @@
 letters in it. Also have it show the array contents.
 
 2. Use nested loops to produce the following pattern:
-$\n 
-$$\n
-$$$\n 
-$$$$\n
-$$$$$\n
+$<br>
+$$<br>
+$$$<br>
+$$$$<br>
+$$$$$<br>
 
 3. Use nested loops to produce the following pattern:
-F
-FE
-FED
-FEDC
-FEDCB
-FEDCBA
+F<br>
+FE<br>
+FED<br>
+FEDC<br>
+FEDCB<br>
+FEDCBA<br>
 Note: If your system doesn’t use ASCII or some other code that encodes letters in
 numeric order, you can use the following to initialize a character array to the letters of
 the alphabet:
