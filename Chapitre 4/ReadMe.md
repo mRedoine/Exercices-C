@@ -1,14 +1,14 @@
 1. Write a program that creates an array with 26 elements and stores the 26 lowercase
 letters in it. Also have it show the array contents.
 
-2. Use nested loops to produce the following pattern:
+2. Use nested loops to produce the following pattern:<br>
 $<br>
 $$<br>
 $$$<br>
 $$$$<br>
 $$$$$<br>
 
-3. Use nested loops to produce the following pattern:
+3. Use nested loops to produce the following pattern:<br>
 F<br>
 FE<br>
 FED<br>
@@ -22,21 +22,21 @@ char lets[27] = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 Then you can use the array index to select individual letters; for example, lets[0] is
 'A' , and so on.
 
-4. Use nested loops to produce the following pattern:
-A
-BC
-DEF
-GHIJ
-KLMNO
-PQRSTU
+4. Use nested loops to produce the following pattern:<br>
+A<br>
+BC<br>
+DEF<br>
+GHIJ<br>
+KLMNO<br>
+PQRSTU<br>
 
 5. Have a program request the user to enter an uppercase letter. Use nested loops to produce
-a pyramid pattern like this:
-A
-ABA
-ABCBA
-ABCDCBA
-ABCDEDCBA
+a pyramid pattern like this:<br>
+A<br>
+ABA<br>
+ABCBA<br>
+ABCDCBA<br>
+ABCDEDCBA<br>
 The pattern should extend to the character entered. For example, the preceding pattern
 would result from an input value of E . Hint: Use an outer loop to handle the rows. Use
 three inner loops in a row, one to handle the spaces, one for printing letters in ascending
@@ -72,9 +72,9 @@ Done
 11. Write a program that reads eight integers into an array and then prints them in reverse
 order.
 
-12. Consider these two infinite series:
-1.0 + 1.0/2.0 + 1.0/3.0 + 1.0/4.0 + ...
-1.0 - 1.0/2.0 + 1.0/3.0 - 1.0/4.0 + ...
+12. Consider these two infinite series:<br>
+1.0 + 1.0/2.0 + 1.0/3.0 + 1.0/4.0 + ...<br>
+1.0 - 1.0/2.0 + 1.0/3.0 - 1.0/4.0 + ...<br>
 Write a program that evaluates running totals of these two series up to some limit of
 number of terms. Hint: –1 times itself an odd number of times is –1, and –1 times itself
 an even number of times is 1. Have the user enter the limit interactively; let a zero or
