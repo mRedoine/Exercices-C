@@ -2,11 +2,11 @@
 letters in it. Also have it show the array contents.
 
 2. Use nested loops to produce the following pattern:
-$
-$$
-$$$
-$$$$
-$$$$$
+$. 
+$$. 
+$$$. 
+$$$$. 
+$$$$$. 
 
 3. Use nested loops to produce the following pattern:
 F
