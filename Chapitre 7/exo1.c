@@ -2,9 +2,9 @@
 the function with a simple driver. */
 #include <stdio.h>
 #include "header.h"
-double min(int a, int b)
+double min(double firstValue, double secondValue)
 {
- return a < b ? a : b;
+ return firstValue < secondValue ? firstValue : secondValue;
 }
 
   
