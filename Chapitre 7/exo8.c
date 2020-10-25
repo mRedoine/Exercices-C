@@ -38,7 +38,7 @@ double power(double n, int p)
     pow = 1 / pow;
   }
   else {
-  	printf("0 to the power of 0 is chelou has we say in french, so it's using a default value of 1\n");
+  	printf("0 to the power of 0, so it's using a default value of 1\n");
   }
   return pow;
 }
