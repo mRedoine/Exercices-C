@@ -11,7 +11,7 @@ int main(void)
   printf("to quit.\n");
   while(scanf("%lf %d", &x, &exp) == 2)
   {
-    xpow = power(x, exp); // function call
+    xpow = power(x, exp); // Appel de la fonction
     printf("%.3g to the power of %d is %.5g\n", x, exp, xpow);
     printf("Enter next pair of numbers or q to quit.\n");
   }
@@ -38,7 +38,7 @@ double power(double n, int p)
     pow = 1 / pow;
   }
   else {
-  	printf("0 to the power of 0, so it's using a value of 1\n");
+  	printf("0 to the power of 0 is chelou has we say in french, so it's using a default value of 1\n");
   }
   return pow;
 }
